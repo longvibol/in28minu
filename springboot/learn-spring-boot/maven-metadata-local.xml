@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.in28minutes.springboot</groupId>
+  <artifactId>learn-spring-boot</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20231225100958</lastUpdated>
+  </versioning>
+</metadata>

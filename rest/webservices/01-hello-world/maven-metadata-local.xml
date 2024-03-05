@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.in28minutes.rest.webservices</groupId>
+  <artifactId>01-hello-world</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240305041936</lastUpdated>
+  </versioning>
+</metadata>
